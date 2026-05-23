@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I found your memory wrapped in the dark
+> A rusted love letter still holding a spark
+> The scent of your perfume, the dust on the floor
+> I am tasting the whiskey and wanting you more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
